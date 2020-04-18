@@ -1,0 +1,75 @@
+body{
+	font-family: sans-serif;
+	background: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  
+
+.tulisan_login{
+	text-align: center;
+/* membuat semua huruf menjadi kapital */
+	text-transform: uppercase;
+}
+
+.kotak_login{
+	width: 350px;
+	background: white;
+/* meletakkan form ke tengah/ */
+    border: 2px solid black;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form_login{
+/* membuat lebar form penuh/ */
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.remember{
+    
+}
+
+.tombol_cancel{
+	background: rgb(222, 70, 70);
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}

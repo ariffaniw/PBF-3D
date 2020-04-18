@@ -1,0 +1,77 @@
+{
+    "listProduk": [
+        {
+            "id": 1,
+            "gambar":"oven1.jpg",
+            "nama": "Mito MO-999 Oven Listrik",
+            "harga": 1250000,
+            "stok": "5"
+        },
+        {
+            "id": 2,
+            "gambar": "oven2.jpg",
+            "nama": "Oxone OX-858  2 in 1 Oven Toaster",
+            "harga": 930000,
+            "stok": "3"
+        },
+        {
+            "id": 3,
+            "gambar": "oven3.jpg",
+            "nama": "Sekai OV 180 Oven Listrik",
+            "harga": 443500,
+            "stok": "4"
+        },
+        {
+            "id": 4,
+            "gambar": "oven4.jpg",
+            "nama": "Maspion MOT-500 Oven Toaster",
+            "harga": 450000,
+            "stok": "2"
+        },
+        {
+            "id": 5,
+            "gambar": "oven5.jpg",
+            "nama": "Kirin KBO-190LW Oven Elektrik Low Watt",
+            "harga": 7570000,
+            "stok": "4"
+        },
+        {
+            "id": 6,
+            "nama": "Black & Decker Oven Toaster TRO1000-B1",
+            "harga": 784000,
+            "stok": "5"
+        },
+        {
+            "id": 7,
+            "gambar": "oven7.jpg",
+            "nama": "Cosmos CO-991R",
+            "harga": 553000,
+            "stok": "1"
+        },
+        {
+            "id": 8,
+            "gambar": "oven8.jpg",
+            "nama": "Sharp Electric Oven EO-28LP(K)",
+            "harga": 850000,
+            "stok": "3"
+        },
+        {
+            "id": 9,
+            "gambar": "oven9.jpg",
+            "nama": "Midea MEO-10BFK Oven Listrik",
+            "harga": 410000,
+            "stok": "7"
+        },
+        {
+            "id": 10,
+            "gambar": "oven10.jpg",
+            "nama": "Bolde Super Oven Listrik Diamond Series",
+            "harga": 940000,
+            "stok": "10"
+        }
+    ],
+    "comments": [],
+    "profile": {
+        "name": "typicode"
+    }
+}

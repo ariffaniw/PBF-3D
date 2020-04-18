@@ -1,0 +1,57 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Mito MO-999 Oven Listrik",
+      "harga": 1250000,
+      "stok": "5",
+      "qty": 2
+    },
+    {
+      "id": 2,
+      "nama": "Oxone OX-858  2 in 1 Oven Toaster",
+      "harga": 930000,
+      "stok": "3",
+      "qty": 7
+    },
+    {
+      "id": 3,
+      "nama": "Sekai OV 180 Oven Listrik",
+      "harga": 443500,
+      "stok": "4",
+      "qty": 6
+    },
+    {
+      "id": 4,
+      "nama": "Maspion MOT-500 Oven Toaster",
+      "harga": 450000,
+      "stok": "2",
+      "qty": 3
+    },
+    {
+      "id": 5,
+      "nama": "Kirin KBO-190LW Oven Elektrik Low Watt",
+      "harga": 7570000,
+      "stok": "4",
+      "qty": 3
+    },
+    {
+      "id": 6,
+      "nama": "Black & Decker Oven Toaster TRO1000-B1",
+      "harga": 784000,
+      "stok": "5",
+      "qty": 3
+    },
+    {
+      "id": 7,
+      "nama": "Cosmos CO-991R",
+      "harga": 553000,
+      "stok": "1",
+      "qty": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
